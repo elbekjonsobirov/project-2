@@ -1,0 +1,40 @@
+@import './base.css';
+
+
+
+a,
+.green {
+  text-decoration: none;
+  
+  transition: 0.4s;
+}
+a{
+  color: #70737c;
+  font-size: 16px;
+}
+h1{
+  font-size: 36px;
+  font-weight: 600;
+  line-height: 54px;
+}
+p{
+  font-size: 16px;
+  font-weight: 300;
+   line-height: 25px;
+}
+.p{
+  font-weight: 600;
+}
+#p{
+  font-size: 14px;
+  font-weight: 400;
+}
+.list{
+  font-weight: 600;
+}
+.list:hover{
+  color:#ffcf55;
+}
+button{
+  cursor: pointer;
+}
